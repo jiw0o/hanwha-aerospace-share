@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="mppi_controller" type="main_node_husky.py" name="mppi_ctrl_node" output="screen">        
+    </node>
+    
+</launch>

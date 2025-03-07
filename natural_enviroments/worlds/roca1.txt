@@ -1,0 +1,1000 @@
+<model name="roca3mg_0">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-417.949 -354.638 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_1">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-162.566 -227.050 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_2">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-337.390 477.534 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_3">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-38.020 394.281 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_4">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-382.437 167.463 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_5">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-469.431 230.376 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_6">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-6.535 122.895 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_7">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-245.071 -106.710 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_8">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">108.679 -96.612 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_9">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-324.045 260.470 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_10">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">362.810 -216.708 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_11">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-102.574 445.365 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_12">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-495.560 -300.485 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_13">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">311.128 -87.195 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_14">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">231.589 -470.766 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_15">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-326.560 347.960 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_16">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-384.021 -424.666 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_17">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-157.456 -484.568 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_18">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-445.859 496.128 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_19">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-41.401 -44.793 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_20">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-140.613 -243.952 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_21">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-9.207 430.821 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_22">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-151.809 -442.817 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_23">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">115.762 73.348 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_24">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">124.318 -100.790 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_25">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">446.228 -138.348 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_26">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">231.527 -113.575 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_27">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-498.313 -235.261 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_28">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">265.966 223.219 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_29">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-239.461 -62.062 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_30">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">88.306 -428.786 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_31">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-309.149 84.983 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_32">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">347.539 -478.237 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_33">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-125.831 398.716 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_34">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-30.135 -210.253 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_35">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">243.732 18.987 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_36">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-187.025 -310.334 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_37">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">86.666 24.565 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_38">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-275.151 275.514 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_39">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-140.663 364.912 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_40">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-159.649 -358.774 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_41">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-146.013 -241.185 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_42">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-0.714 -100.836 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_43">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-313.960 -423.594 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_44">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-345.885 -435.223 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_45">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">436.307 189.831 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_46">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">176.449 -471.536 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_47">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-209.958 461.638 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_48">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-151.351 -462.856 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_49">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-99.327 125.908 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_0">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">330.274 234.696 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_1">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-104.222 224.982 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_2">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">354.276 -389.759 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_3">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-354.389 372.307 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_4">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">188.221 413.922 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_5">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">355.250 -463.779 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_6">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-450.729 -116.091 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_7">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">442.421 120.972 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_8">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-158.611 415.238 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_9">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">111.279 -25.753 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_10">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">28.657 -207.005 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_11">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-111.595 -120.266 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_12">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-103.528 -407.348 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_13">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">478.121 -166.078 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_14">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">365.681 417.318 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_15">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">280.298 281.437 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_16">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-36.975 423.625 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_17">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">333.757 -148.501 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_18">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">110.898 186.577 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_19">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">294.080 65.229 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_20">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-429.907 399.817 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_21">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">353.092 310.329 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_22">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-242.693 216.679 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_23">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">241.492 148.828 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_24">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-182.506 -278.884 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_25">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-180.512 -365.770 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_26">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">266.923 358.137 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_27">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-261.626 380.777 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_28">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-264.162 170.888 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_29">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">447.250 -293.688 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_30">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">390.299 215.703 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_31">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">454.284 419.601 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_32">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-334.380 392.193 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_33">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">27.082 402.970 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_34">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">283.230 23.461 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_35">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">430.193 -407.920 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_36">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-247.810 137.089 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_37">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">182.368 485.991 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_38">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">331.249 293.942 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_39">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">342.056 157.653 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_40">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-211.387 -421.506 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_41">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-78.299 499.015 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_42">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">129.434 233.100 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_43">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-8.640 13.022 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_44">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-247.411 -386.650 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_45">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">17.790 408.999 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_46">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-150.893 62.315 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_47">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-54.628 21.080 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_48">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-197.907 -67.642 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="roca3mg_49">
+        <pose frame="">372.361 -243.883 0 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_1">
+          <pose frame="">-203.489 377.285 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>

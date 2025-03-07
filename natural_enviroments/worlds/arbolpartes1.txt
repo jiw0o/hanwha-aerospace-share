@@ -1,0 +1,3200 @@
+<model name="arbolpartes3_dry_0">
+        <pose frame="">-206.381 378.783 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-206.381 378.783 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-206.381 378.783 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_1">
+        <pose frame="">454.993 240.932 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">454.993 240.932 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">454.993 240.932 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_2">
+        <pose frame="">24.983 -473.223 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">24.983 -473.223 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">24.983 -473.223 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_3">
+        <pose frame="">-154.577 457.022 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-154.577 457.022 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-154.577 457.022 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_4">
+        <pose frame="">-387.505 415.203 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-387.505 415.203 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-387.505 415.203 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_5">
+        <pose frame="">-264.410 -33.025 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-264.410 -33.025 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-264.410 -33.025 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_6">
+        <pose frame="">-189.250 -78.586 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-189.250 -78.586 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-189.250 -78.586 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_7">
+        <pose frame="">65.398 -478.278 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">65.398 -478.278 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">65.398 -478.278 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_8">
+        <pose frame="">-267.819 -191.567 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-267.819 -191.567 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-267.819 -191.567 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_9">
+        <pose frame="">390.456 180.938 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">390.456 180.938 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">390.456 180.938 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_10">
+        <pose frame="">-270.416 215.765 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-270.416 215.765 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-270.416 215.765 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_11">
+        <pose frame="">434.890 209.025 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">434.890 209.025 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">434.890 209.025 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_12">
+        <pose frame="">-185.827 322.291 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-185.827 322.291 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-185.827 322.291 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_13">
+        <pose frame="">-307.999 -293.734 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-307.999 -293.734 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-307.999 -293.734 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_14">
+        <pose frame="">-70.369 415.934 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-70.369 415.934 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-70.369 415.934 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_15">
+        <pose frame="">183.773 163.252 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">183.773 163.252 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">183.773 163.252 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_16">
+        <pose frame="">134.416 -208.783 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">134.416 -208.783 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">134.416 -208.783 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_17">
+        <pose frame="">-257.713 -449.841 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-257.713 -449.841 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-257.713 -449.841 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_18">
+        <pose frame="">-306.858 -264.592 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-306.858 -264.592 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-306.858 -264.592 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_19">
+        <pose frame="">128.585 472.173 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">128.585 472.173 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">128.585 472.173 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_20">
+        <pose frame="">-355.496 -424.943 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-355.496 -424.943 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-355.496 -424.943 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_21">
+        <pose frame="">-378.676 242.484 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-378.676 242.484 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-378.676 242.484 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_22">
+        <pose frame="">49.585 -88.383 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">49.585 -88.383 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">49.585 -88.383 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_23">
+        <pose frame="">-175.933 216.549 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-175.933 216.549 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-175.933 216.549 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_24">
+        <pose frame="">-248.058 -417.790 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-248.058 -417.790 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-248.058 -417.790 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_25">
+        <pose frame="">156.469 -380.584 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">156.469 -380.584 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">156.469 -380.584 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_26">
+        <pose frame="">7.808 -342.787 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">7.808 -342.787 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">7.808 -342.787 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_27">
+        <pose frame="">-249.584 -391.610 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-249.584 -391.610 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-249.584 -391.610 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_28">
+        <pose frame="">-190.850 122.317 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-190.850 122.317 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-190.850 122.317 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_29">
+        <pose frame="">-174.632 56.337 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-174.632 56.337 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-174.632 56.337 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_30">
+        <pose frame="">-195.721 -454.406 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-195.721 -454.406 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-195.721 -454.406 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_31">
+        <pose frame="">167.434 366.409 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">167.434 366.409 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">167.434 366.409 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_32">
+        <pose frame="">450.240 272.043 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">450.240 272.043 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">450.240 272.043 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_33">
+        <pose frame="">256.387 -57.458 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">256.387 -57.458 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">256.387 -57.458 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_34">
+        <pose frame="">-67.722 -245.269 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-67.722 -245.269 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-67.722 -245.269 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_35">
+        <pose frame="">-141.633 41.748 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-141.633 41.748 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-141.633 41.748 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_36">
+        <pose frame="">130.019 -170.793 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">130.019 -170.793 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">130.019 -170.793 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_37">
+        <pose frame="">269.893 12.946 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">269.893 12.946 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">269.893 12.946 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_38">
+        <pose frame="">-211.975 -411.418 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-211.975 -411.418 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-211.975 -411.418 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_39">
+        <pose frame="">305.701 244.666 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">305.701 244.666 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">305.701 244.666 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_40">
+        <pose frame="">75.297 -50.723 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">75.297 -50.723 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">75.297 -50.723 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_41">
+        <pose frame="">411.558 -326.627 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">411.558 -326.627 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">411.558 -326.627 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_42">
+        <pose frame="">-374.910 203.199 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-374.910 203.199 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-374.910 203.199 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_43">
+        <pose frame="">-268.606 -361.739 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-268.606 -361.739 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-268.606 -361.739 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_44">
+        <pose frame="">14.168 61.076 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">14.168 61.076 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">14.168 61.076 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_45">
+        <pose frame="">-194.055 95.334 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-194.055 95.334 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-194.055 95.334 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_46">
+        <pose frame="">-249.387 430.375 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-249.387 430.375 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-249.387 430.375 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_47">
+        <pose frame="">-52.350 -355.241 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-52.350 -355.241 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-52.350 -355.241 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_48">
+        <pose frame="">470.606 243.453 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">470.606 243.453 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">470.606 243.453 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_49">
+        <pose frame="">-341.760 88.928 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-341.760 88.928 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-341.760 88.928 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_50">
+        <pose frame="">410.339 -263.098 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">410.339 -263.098 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">410.339 -263.098 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_51">
+        <pose frame="">257.969 -464.719 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">257.969 -464.719 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">257.969 -464.719 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_52">
+        <pose frame="">306.109 -275.369 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">306.109 -275.369 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">306.109 -275.369 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_53">
+        <pose frame="">-357.318 -448.322 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-357.318 -448.322 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-357.318 -448.322 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_54">
+        <pose frame="">262.675 -99.029 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">262.675 -99.029 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">262.675 -99.029 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_55">
+        <pose frame="">-302.032 -230.650 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-302.032 -230.650 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-302.032 -230.650 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_56">
+        <pose frame="">-272.147 -458.297 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-272.147 -458.297 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-272.147 -458.297 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_57">
+        <pose frame="">-298.617 78.672 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-298.617 78.672 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-298.617 78.672 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_58">
+        <pose frame="">-129.580 -404.916 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-129.580 -404.916 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-129.580 -404.916 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_59">
+        <pose frame="">-314.070 80.535 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-314.070 80.535 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-314.070 80.535 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_60">
+        <pose frame="">-270.199 -77.536 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-270.199 -77.536 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-270.199 -77.536 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_61">
+        <pose frame="">43.538 -241.215 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">43.538 -241.215 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">43.538 -241.215 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_62">
+        <pose frame="">226.928 -142.943 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">226.928 -142.943 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">226.928 -142.943 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_63">
+        <pose frame="">111.535 -464.302 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">111.535 -464.302 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">111.535 -464.302 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_64">
+        <pose frame="">165.494 -392.596 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">165.494 -392.596 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">165.494 -392.596 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_65">
+        <pose frame="">-208.502 144.977 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-208.502 144.977 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-208.502 144.977 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_66">
+        <pose frame="">49.584 -403.595 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">49.584 -403.595 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">49.584 -403.595 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_67">
+        <pose frame="">-339.338 468.974 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-339.338 468.974 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-339.338 468.974 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_68">
+        <pose frame="">-302.352 -52.458 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-302.352 -52.458 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-302.352 -52.458 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_69">
+        <pose frame="">-74.787 145.824 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-74.787 145.824 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-74.787 145.824 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_70">
+        <pose frame="">184.094 314.023 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">184.094 314.023 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">184.094 314.023 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_71">
+        <pose frame="">-129.889 4.372 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-129.889 4.372 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-129.889 4.372 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_72">
+        <pose frame="">-279.562 -432.825 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-279.562 -432.825 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-279.562 -432.825 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_73">
+        <pose frame="">54.611 375.685 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">54.611 375.685 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">54.611 375.685 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_74">
+        <pose frame="">365.240 -202.350 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">365.240 -202.350 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">365.240 -202.350 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_75">
+        <pose frame="">118.769 235.994 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">118.769 235.994 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">118.769 235.994 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_76">
+        <pose frame="">-99.642 156.465 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-99.642 156.465 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-99.642 156.465 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_77">
+        <pose frame="">-268.083 -289.153 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-268.083 -289.153 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-268.083 -289.153 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_78">
+        <pose frame="">10.615 -338.507 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">10.615 -338.507 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">10.615 -338.507 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_79">
+        <pose frame="">401.291 448.245 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">401.291 448.245 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">401.291 448.245 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_80">
+        <pose frame="">465.779 136.599 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">465.779 136.599 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">465.779 136.599 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_81">
+        <pose frame="">-266.334 -480.162 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-266.334 -480.162 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-266.334 -480.162 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_82">
+        <pose frame="">488.457 -484.768 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">488.457 -484.768 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">488.457 -484.768 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_83">
+        <pose frame="">166.611 218.332 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">166.611 218.332 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">166.611 218.332 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_84">
+        <pose frame="">125.573 -38.200 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">125.573 -38.200 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">125.573 -38.200 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_85">
+        <pose frame="">315.963 -440.565 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">315.963 -440.565 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">315.963 -440.565 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_86">
+        <pose frame="">-116.295 -256.537 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-116.295 -256.537 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-116.295 -256.537 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_87">
+        <pose frame="">-74.804 481.489 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-74.804 481.489 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-74.804 481.489 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_88">
+        <pose frame="">-29.652 88.222 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-29.652 88.222 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-29.652 88.222 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_89">
+        <pose frame="">-255.482 -66.206 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-255.482 -66.206 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-255.482 -66.206 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_90">
+        <pose frame="">296.116 390.950 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">296.116 390.950 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">296.116 390.950 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_91">
+        <pose frame="">-83.399 -290.103 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-83.399 -290.103 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-83.399 -290.103 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_92">
+        <pose frame="">-342.222 -33.838 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-342.222 -33.838 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-342.222 -33.838 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_93">
+        <pose frame="">-194.721 384.269 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-194.721 384.269 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-194.721 384.269 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_94">
+        <pose frame="">-318.471 239.711 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-318.471 239.711 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-318.471 239.711 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_95">
+        <pose frame="">-389.471 -203.062 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-389.471 -203.062 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-389.471 -203.062 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_96">
+        <pose frame="">-268.815 -38.659 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-268.815 -38.659 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-268.815 -38.659 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_97">
+        <pose frame="">-79.845 26.593 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-79.845 26.593 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-79.845 26.593 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_98">
+        <pose frame="">88.428 -290.322 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">88.428 -290.322 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">88.428 -290.322 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_99">
+        <pose frame="">54.431 -224.144 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">54.431 -224.144 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">54.431 -224.144 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_100">
+        <pose frame="">-189.871 -349.888 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-189.871 -349.888 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-189.871 -349.888 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_101">
+        <pose frame="">-274.703 -492.885 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-274.703 -492.885 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-274.703 -492.885 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_102">
+        <pose frame="">-206.301 -142.238 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-206.301 -142.238 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-206.301 -142.238 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_103">
+        <pose frame="">-376.515 -69.621 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-376.515 -69.621 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-376.515 -69.621 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_104">
+        <pose frame="">-221.781 452.252 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-221.781 452.252 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-221.781 452.252 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_105">
+        <pose frame="">245.633 -78.881 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">245.633 -78.881 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">245.633 -78.881 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_106">
+        <pose frame="">-251.640 308.967 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-251.640 308.967 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-251.640 308.967 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_107">
+        <pose frame="">406.037 -379.945 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">406.037 -379.945 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">406.037 -379.945 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_108">
+        <pose frame="">-34.712 161.997 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-34.712 161.997 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-34.712 161.997 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_109">
+        <pose frame="">169.795 161.576 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">169.795 161.576 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">169.795 161.576 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_110">
+        <pose frame="">-332.488 260.455 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-332.488 260.455 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-332.488 260.455 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_111">
+        <pose frame="">356.868 -87.087 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">356.868 -87.087 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">356.868 -87.087 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_112">
+        <pose frame="">234.352 -66.045 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">234.352 -66.045 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">234.352 -66.045 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_113">
+        <pose frame="">373.408 7.445 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">373.408 7.445 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">373.408 7.445 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_114">
+        <pose frame="">160.386 231.919 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">160.386 231.919 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">160.386 231.919 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_115">
+        <pose frame="">452.021 177.834 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">452.021 177.834 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">452.021 177.834 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_116">
+        <pose frame="">272.139 424.241 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">272.139 424.241 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">272.139 424.241 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_117">
+        <pose frame="">192.642 348.144 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">192.642 348.144 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">192.642 348.144 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_118">
+        <pose frame="">211.637 -229.347 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">211.637 -229.347 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">211.637 -229.347 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_119">
+        <pose frame="">84.329 -256.782 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">84.329 -256.782 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">84.329 -256.782 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_120">
+        <pose frame="">453.112 498.894 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">453.112 498.894 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">453.112 498.894 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_121">
+        <pose frame="">-352.178 40.809 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-352.178 40.809 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-352.178 40.809 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_122">
+        <pose frame="">-388.760 458.682 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-388.760 458.682 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-388.760 458.682 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_123">
+        <pose frame="">-171.876 478.258 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-171.876 478.258 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-171.876 478.258 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_124">
+        <pose frame="">-199.786 -85.377 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-199.786 -85.377 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-199.786 -85.377 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_125">
+        <pose frame="">413.588 -424.031 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">413.588 -424.031 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">413.588 -424.031 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_126">
+        <pose frame="">-287.526 -151.123 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-287.526 -151.123 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-287.526 -151.123 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_127">
+        <pose frame="">219.049 60.991 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">219.049 60.991 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">219.049 60.991 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_128">
+        <pose frame="">-494.862 397.143 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-494.862 397.143 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-494.862 397.143 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_129">
+        <pose frame="">-404.588 321.434 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-404.588 321.434 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-404.588 321.434 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_130">
+        <pose frame="">431.190 138.153 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">431.190 138.153 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">431.190 138.153 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_131">
+        <pose frame="">-7.186 176.375 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-7.186 176.375 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-7.186 176.375 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_132">
+        <pose frame="">263.742 -325.485 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">263.742 -325.485 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">263.742 -325.485 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_133">
+        <pose frame="">-494.664 411.569 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-494.664 411.569 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-494.664 411.569 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_134">
+        <pose frame="">147.869 -308.350 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">147.869 -308.350 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">147.869 -308.350 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_135">
+        <pose frame="">-413.738 279.188 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-413.738 279.188 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-413.738 279.188 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_136">
+        <pose frame="">-91.609 240.766 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-91.609 240.766 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-91.609 240.766 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_137">
+        <pose frame="">-321.973 271.723 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-321.973 271.723 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-321.973 271.723 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_138">
+        <pose frame="">-74.215 181.478 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-74.215 181.478 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-74.215 181.478 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_139">
+        <pose frame="">-423.111 -453.142 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-423.111 -453.142 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-423.111 -453.142 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_140">
+        <pose frame="">-445.579 70.613 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-445.579 70.613 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-445.579 70.613 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_141">
+        <pose frame="">151.157 475.952 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">151.157 475.952 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">151.157 475.952 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_142">
+        <pose frame="">-10.555 -270.355 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-10.555 -270.355 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-10.555 -270.355 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_143">
+        <pose frame="">-36.383 205.281 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-36.383 205.281 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-36.383 205.281 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_144">
+        <pose frame="">-60.504 -244.184 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-60.504 -244.184 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-60.504 -244.184 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_145">
+        <pose frame="">-197.381 279.834 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-197.381 279.834 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-197.381 279.834 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_146">
+        <pose frame="">21.133 -313.868 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">21.133 -313.868 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">21.133 -313.868 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_147">
+        <pose frame="">114.656 425.773 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">114.656 425.773 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">114.656 425.773 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_148">
+        <pose frame="">461.967 -329.042 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">461.967 -329.042 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">461.967 -329.042 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_149">
+        <pose frame="">442.765 359.822 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">442.765 359.822 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">442.765 359.822 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_150">
+        <pose frame="">-478.803 -68.829 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-478.803 -68.829 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-478.803 -68.829 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_151">
+        <pose frame="">305.124 -21.445 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">305.124 -21.445 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">305.124 -21.445 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_152">
+        <pose frame="">67.634 -455.619 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">67.634 -455.619 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">67.634 -455.619 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_153">
+        <pose frame="">159.968 220.407 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">159.968 220.407 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">159.968 220.407 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_154">
+        <pose frame="">-466.892 39.928 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-466.892 39.928 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-466.892 39.928 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_155">
+        <pose frame="">-13.085 -331.596 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-13.085 -331.596 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-13.085 -331.596 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_156">
+        <pose frame="">-36.682 -151.543 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-36.682 -151.543 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-36.682 -151.543 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_157">
+        <pose frame="">-358.086 -191.874 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-358.086 -191.874 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-358.086 -191.874 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_158">
+        <pose frame="">-153.735 155.844 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-153.735 155.844 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-153.735 155.844 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_159">
+        <pose frame="">-334.259 484.855 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-334.259 484.855 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-334.259 484.855 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_160">
+        <pose frame="">-440.450 -208.555 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-440.450 -208.555 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-440.450 -208.555 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_161">
+        <pose frame="">454.404 -339.378 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">454.404 -339.378 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">454.404 -339.378 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_162">
+        <pose frame="">371.213 -294.119 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">371.213 -294.119 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">371.213 -294.119 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_163">
+        <pose frame="">156.562 -190.866 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">156.562 -190.866 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">156.562 -190.866 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_164">
+        <pose frame="">85.717 -273.939 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">85.717 -273.939 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">85.717 -273.939 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_165">
+        <pose frame="">116.804 125.331 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">116.804 125.331 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">116.804 125.331 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_166">
+        <pose frame="">-184.683 118.564 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-184.683 118.564 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-184.683 118.564 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_167">
+        <pose frame="">82.601 240.812 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">82.601 240.812 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">82.601 240.812 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_168">
+        <pose frame="">-451.056 283.164 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-451.056 283.164 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-451.056 283.164 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_169">
+        <pose frame="">469.578 453.789 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">469.578 453.789 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">469.578 453.789 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_170">
+        <pose frame="">347.140 -429.652 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">347.140 -429.652 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">347.140 -429.652 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_171">
+        <pose frame="">-241.180 432.614 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-241.180 432.614 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-241.180 432.614 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_172">
+        <pose frame="">-3.227 248.369 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-3.227 248.369 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-3.227 248.369 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_173">
+        <pose frame="">480.504 499.838 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">480.504 499.838 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">480.504 499.838 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_174">
+        <pose frame="">-495.187 470.690 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-495.187 470.690 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-495.187 470.690 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_175">
+        <pose frame="">102.004 250.823 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">102.004 250.823 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">102.004 250.823 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_176">
+        <pose frame="">-298.244 -56.125 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-298.244 -56.125 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-298.244 -56.125 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_177">
+        <pose frame="">-160.521 -73.649 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-160.521 -73.649 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-160.521 -73.649 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_178">
+        <pose frame="">17.873 196.729 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">17.873 196.729 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">17.873 196.729 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_179">
+        <pose frame="">-446.797 251.527 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-446.797 251.527 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-446.797 251.527 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_180">
+        <pose frame="">-367.785 168.786 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-367.785 168.786 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-367.785 168.786 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_181">
+        <pose frame="">-74.207 89.010 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-74.207 89.010 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-74.207 89.010 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_182">
+        <pose frame="">-133.157 -199.415 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-133.157 -199.415 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-133.157 -199.415 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_183">
+        <pose frame="">130.678 -448.099 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">130.678 -448.099 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">130.678 -448.099 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_184">
+        <pose frame="">405.589 -294.162 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">405.589 -294.162 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">405.589 -294.162 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_185">
+        <pose frame="">103.909 420.085 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">103.909 420.085 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">103.909 420.085 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_186">
+        <pose frame="">141.117 297.089 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">141.117 297.089 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">141.117 297.089 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_187">
+        <pose frame="">247.113 -177.947 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">247.113 -177.947 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">247.113 -177.947 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_188">
+        <pose frame="">351.796 423.615 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">351.796 423.615 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">351.796 423.615 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_189">
+        <pose frame="">-378.662 -166.244 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-378.662 -166.244 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-378.662 -166.244 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_190">
+        <pose frame="">-0.019 -209.780 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-0.019 -209.780 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-0.019 -209.780 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_191">
+        <pose frame="">430.909 179.530 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">430.909 179.530 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">430.909 179.530 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_192">
+        <pose frame="">60.798 140.538 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">60.798 140.538 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">60.798 140.538 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_193">
+        <pose frame="">332.634 -12.291 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">332.634 -12.291 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">332.634 -12.291 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_194">
+        <pose frame="">352.515 42.449 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">352.515 42.449 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">352.515 42.449 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_195">
+        <pose frame="">241.359 172.586 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">241.359 172.586 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">241.359 172.586 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_196">
+        <pose frame="">-405.346 -373.255 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">-405.346 -373.255 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">-405.346 -373.255 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_197">
+        <pose frame="">495.612 354.176 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">495.612 354.176 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">495.612 354.176 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_198">
+        <pose frame="">74.006 53.975 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">74.006 53.975 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">74.006 53.975 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+<model name="arbolpartes3_dry_199">
+        <pose frame="">129.445 105.031 100 0 -0 0</pose>
+        <scale>1 1 1</scale>
+        <link name="link_0">
+          <pose frame="">129.445 105.031 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+        <link name="link_1">
+          <pose frame="">129.445 105.031 100 0 -0 0</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>

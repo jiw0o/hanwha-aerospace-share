@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/sgvrjw/ros_ws/hanwha_2/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/sgvrjw/ros_ws/hanwha_2/src/hanwha-incorporation/geonav_transform/include/**",
+        "/opt/ros/noetic/share/julius/include/**",
+        "/home/sgvrjw/ros_ws/hanwha_2/src/hanwha-incorporation/mppi_controller/include/**",
+        "/home/sgvrjw/ros_ws/hanwha_2/src/hanwha-incorporation/ouster_example/ouster_client/include/**",
+        "/home/sgvrjw/ros_ws/hanwha_2/src/hanwha-incorporation/ouster_gazebo_plugins/include/**",
+        "/home/sgvrjw/ros_ws/hanwha_2/src/hanwha-incorporation/ouster_example/ouster_ros/include/**",
+        "/home/sgvrjw/ros_ws/hanwha_2/src/hanwha-incorporation/ouster_example/ouster_viz/include/**",
+        "/home/sgvrjw/ros_ws/hanwha_2/src/hanwha-incorporation/SemanticTRIPLoader/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

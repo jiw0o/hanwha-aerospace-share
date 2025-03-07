@@ -1,0 +1,22 @@
+<launch>
+    <arg name="is_debug" default="false"/>
+    <param name="is_planning_debug" value="$(arg is_debug)"/>
+    
+    <param name="aggressive_level" type="int" value="3" /> <!-- CVaR aggressive_level :: possible values: 1, 2, or 3 -->
+
+    <param name="planning_time_s" type="double" value="0.1" />
+
+    <!-- Set global goal parameters -->
+    <!-- <param name="global_goal_x" type="double" value="146.946609"/>
+    <param name="global_goal_y" type="double" value="0.401820"/> -->
+    <!-- for semantic test -->
+    <param name="global_goal_x" type="double" value="-130.528198"/>
+    <param name="global_goal_y" type="double" value="-60.882569"/>
+
+    <!-- planning node -->
+    <node name="main_planning" pkg="planning_module" type="main_planning" output="screen">
+    </node>
+
+    <node name="tf_pub" pkg="planning_module" type="tf_pub.py">
+    </node>
+</launch>

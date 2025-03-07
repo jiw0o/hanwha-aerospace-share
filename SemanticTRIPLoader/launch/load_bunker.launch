@@ -1,0 +1,37 @@
+<launch>
+    <!-- 기존 rviz arg -->
+    <arg name="rviz" default="false" />
+    <arg name="use_terrain_frame" default="true" />
+
+    <!-- args -->
+    <arg name="map_dir" default="$(find trip_loader)/map/" />
+    <arg name="map_name" default="terrain_map_has_gazebo_20241021.pcd" />
+    <!-- <arg name="map_name" default="trip_gazebo_map_20240913.pcd" /> -->
+    <arg name="map_frame_id" default="map" />
+    <arg name="resolution" default="0.2" />
+    <arg name="radius" default="20.0" />
+
+    <arg name="odom_topic" default="/odometry_gt" />
+    <arg name="terrain_local_ptcloud" default="/trip/trip_updated/terrain_local_ptcloud" />
+    <arg name="terrain_local_gridmap" default="/trip/trip_updated/terrain_local_gridmap" />
+
+    <param name="terrain_frame" value="$(arg terrain_frame)" />
+
+    <param name="loader/io/map_dir" value="$(arg map_dir)" />
+    <param name="loader/io/map_name" value="$(arg map_name)" />
+    <param name="loader/map/map_frame" value="$(arg map_frame_id)" />
+    <param name="loader/map/resolution" value="$(arg resolution)" />
+    <param name="loader/map/local_radius" value="$(arg radius)" />
+    
+    <param name="topic/pose" value="$(arg odom_topic)" />
+    <param name="topic/terrain_local_ptcloud" value="$(arg terrain_local_ptcloud)" />
+    <param name="topic/terrain_local_gridmap" value="$(arg terrain_local_gridmap)" />
+
+    <!-- Run TRIP Loader Node  -->
+    <node name="trip_loader_node" pkg="trip_loader" type="trip_loader_node" output="screen"/>
+
+    <!-- RViz 실행 (조건부 실행) -->
+    <group if="$(arg rviz)">
+        <node name="trip_loader" pkg="rviz" type="rviz" args="-d $(find trip_loader)/rviz/trip_loader.rviz" />
+    </group>
+</launch>
