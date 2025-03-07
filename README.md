@@ -25,6 +25,7 @@
 
 
 ### Download the map file from the server
+    $ mkdir ~/{$TRIP_PACKAGE}/map
     $ cd ~/{$TRIP_PACKAGE}/map
     $ chmod +x download_maps.sh
     $ ./download_maps.sh
