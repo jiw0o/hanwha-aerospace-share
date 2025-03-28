@@ -13,16 +13,21 @@
 ### Reinstall ompl
 **[Note!] reinstall ompl within your workspace using ThirdParty.zip in this repo.**
 
-    $ sudo make -j 16 install
-
     $ export WS_DIR=(The workspace path where you cloned this repository.)
-
+    
     $ export LD_LIBRARY_PATH=${WS_DIR}/src/hanwha-aerospace-share/planning_module/ThirdParty/ompl/share:$LD_LIBRARY_PATH
+    
+    $ "Extract ThirdParty.zip in WS_DIR"
+
+    $ cd ${WS_DIR}/ThirdParty/ompl/build
+
+    $ cmake ..
+
+    $ sudo make -j 16 install
 
     $ sudo cp /usr/local/share/libompl.so* ${WS_DIR}/src/hanwha-aerospace-share/planning_module/ThirdParty/ompl/share/ 
 
     $ sudo cp -r /usr/local/include/ompl-1.6/ompl ${WS_DIR}/src/hanwha-aerospace-share/planning_module/ThirdParty/ompl/include
-
 
 ### Download the map file from the server
     $ mkdir ~/{$TRIP_PACKAGE}/map
