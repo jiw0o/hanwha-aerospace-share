@@ -17,11 +17,11 @@
 
     $ export WS_DIR=(The workspace path where you cloned this repository.)
 
-    $ export LD_LIBRARY_PATH=${WS_DIR}/src/hanwha-incorporation/planning_module/ThirdParty/ompl/share:$LD_LIBRARY_PATH
+    $ export LD_LIBRARY_PATH=${WS_DIR}/src/hanwha-aerospace-share/planning_module/ThirdParty/ompl/share:$LD_LIBRARY_PATH
 
-    $ sudo cp /usr/local/share/libompl.so* ${WS_DIR}/src/hanwha-incorporation/planning_module/ThirdParty/ompl/share/ 
+    $ sudo cp /usr/local/share/libompl.so* ${WS_DIR}/src/hanwha-aerospace-share/planning_module/ThirdParty/ompl/share/ 
 
-    $ sudo cp -r /usr/local/include/ompl-1.6/ompl ${WS_DIR}/src/hanwha-incorporation/planning_module/ThirdParty/ompl/include
+    $ sudo cp -r /usr/local/include/ompl-1.6/ompl ${WS_DIR}/src/hanwha-aerospace-share/planning_module/ThirdParty/ompl/include
 
 
 ### Download the map file from the server
@@ -50,7 +50,7 @@
     (TERMINAL 4)
     $ export WS_DIR=(The workspace path where you cloned this repository.)
 
-    $ export LD_LIBRARY_PATH=${WS_DIR}/src/hanwha-incorporation/planning_module/ThirdParty/ompl/share:$LD_LIBRARY_PATH
+    $ export LD_LIBRARY_PATH=${WS_DIR}/src/hanwha-aerospace-share/planning_module/ThirdParty/ompl/share:$LD_LIBRARY_PATH
 
     $ catkin_make && roslaunch planning_module main.launch
 
