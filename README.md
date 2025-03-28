@@ -17,7 +17,7 @@
     
     $ export LD_LIBRARY_PATH=${WS_DIR}/src/hanwha-aerospace-share/planning_module/ThirdParty/ompl/share:$LD_LIBRARY_PATH
     
-    $ "Extract ThirdParty.zip in WS_DIR"
+    "Extract ThirdParty.zip in WS_DIR"
 
     $ cd ${WS_DIR}/ThirdParty/ompl/build
 
