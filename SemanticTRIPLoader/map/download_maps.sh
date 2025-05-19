@@ -1,0 +1,2 @@
+wget https://urserver.kaist.ac.kr/publicdata/hanwha_data_hub/terrain_map_has_gazebo_20241021.pcd            
+wget https://urserver.kaist.ac.kr/publicdata/hanwha_data_hub/semantic_terrain_map_has_gazebo_20241021.pcd
